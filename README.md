@@ -13,6 +13,7 @@ Könyvek, bármilyen formátumban: print, ebook, online/HTML.
   * [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/)
   * [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
   * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) 
+  * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 
 ### Kurzusok
 
